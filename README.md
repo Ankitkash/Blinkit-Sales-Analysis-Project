@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis Project using Power BI
+# Blinkit Sales Analysis Project in Power BI
 
 ## Overview
 
